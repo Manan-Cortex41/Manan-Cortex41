@@ -1,4 +1,4 @@
-# Hi 👋, I'm Loop Stack
+# Hi 👋, I'm Muhammad Manan
 
 ### A passionate developer from around the world
 
